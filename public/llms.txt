@@ -1,0 +1,24 @@
+# The AI Glossary
+> Comprehensive plain-English artificial intelligence terminology index, models, agents, RAG, and optimization protocols.
+
+## Core Categories
+- Models & Architectures: Fundamental neural architectures, transformers, and model parameters.
+- Agents & AI Assistants: Autonomous workflows, MCP, agentic commerce, and multi-step reasoning.
+- RAG & Retrieval: Vector embeddings, vector databases, chunking, and search grounding.
+- AI Search & Discovery: Answer engines, SERP summaries, zero-click citations, and query fan-out.
+- AI Visibility & Optimization (AEO/GEO): Entity clarity, citability scores, brand authority, and knowledge graph anchoring.
+- Infrastructure & Deployment: Edge AI, hardware acceleration, latency, and serving pipelines.
+- Evaluation & Metrics: Accuracy, precision, recall, perplexity, and benchmarking suites.
+- Safety, Security & Trust: Alignment, hallucination mitigation, prompt injection, and red-teaming.
+- Data & Knowledge Management: Knowledge graphs, schema markup, JSON-LD, and data provenance.
+- Training & Optimization: Gradient descent, backpropagation, fine-tuning, RLHF, and quantization.
+- Language Models & NLP: Tokenization, context windows, few-shot prompting, and attention mechanisms.
+- Generative & Multimodal AI: GANs, diffusion models, computer vision, and multimodal embeddings.
+- Web Crawling & Indexing: AI bots, crawl budgets, robots.txt tokens, and sitemaps.
+- Content Structure & Citability: Heading hierarchies, definition patterns, and semantic HTML.
+- AI Commerce & Payments: AP2, ACP, P3P, and verifiable agent transactions.
+- AI Platforms & Tools: Frontier assistants, enterprise frameworks, and open-source models.
+
+## Alphabetical Index Sections
+- #section-A through #section-Z
+- Total terms: 349 verified plain-English definitions

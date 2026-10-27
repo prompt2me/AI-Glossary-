@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>./</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url><loc>./#section-A</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-B</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-C</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-D</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-E</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-F</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-G</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-H</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-I</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-J</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-K</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-L</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-M</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-N</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-O</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-P</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-Q</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-R</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-S</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-T</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-U</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-V</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-W</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-X</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-Y</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>./#section-Z</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>

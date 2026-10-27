@@ -1,0 +1,6 @@
+{
+  "name": "The AI Glossary",
+  "description": "Essential concepts, technologies, and terminology shaping artificial intelligence with interactive A-Z jumping, category filtering, and instant search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
