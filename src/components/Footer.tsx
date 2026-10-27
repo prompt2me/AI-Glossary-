@@ -17,7 +17,7 @@ export const Footer: React.FC<FooterProps> = ({ onSelectCategory, onScrollToTop 
             <div className="flex items-center gap-2.5">
               <div className="w-8 h-8 rounded-lg bg-white border border-gray-200 overflow-hidden flex items-center justify-center shadow-xs shrink-0">
                 <img
-                  src={`${import.meta.env.BASE_URL}assets/aistudio/grok_1792955260013_351a6e6b.jpg`}
+                  src={`${import.meta.env.BASE_URL}assets/aistudio/logo_3f20b12b.jpg`}
                   alt="The AI Glossary Logo"
                   className="w-full h-full object-cover"
                 />
